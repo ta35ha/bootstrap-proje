@@ -1,4 +1,4 @@
-<h1> Bootatrap Proje<h1>
+<h1> Bootstrap Proje<h1>
 
 her hangi bir şirketin tanıtım sitesini yaptım
 
